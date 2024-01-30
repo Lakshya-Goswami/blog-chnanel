@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('images/apps.jpg'); /* Replace 'background-image.jpg' with your image file path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh; /* Set the height to cover the viewport height */
+  /* Other styles for your content */
+ 
+}
+h1{
+  color: white;
+}
+h1 {
+  color: #0a0a0a;
+  font-size: 50px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  display: center;
+  margin-bottom: 20px;
+  background: linear-gradient(
+    120deg,
+    #1c99fe 20.69%,
+    #7644ff 50.19%,
+    #fd4766 79.69%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .social-icons {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .social-icons li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+  .social-icons li a {
+    display: block;
+  }
+  
+  .social-icons li img {
+    width: 70px; /* Adjust the size of the icons */
+    height: auto;
+    border-radius: 30px;
+  }
+  

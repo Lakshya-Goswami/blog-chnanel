@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    /* Set the background image to cover the entire screen */
+    background-image: url('backggg.jpg'); /* Replace 'path_to_your_image.jpg' with your image file path */
+    background-size: 1080px;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  

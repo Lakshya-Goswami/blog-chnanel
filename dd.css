@@ -1,0 +1,102 @@
+/* CSS to style the personal details page */
+.profile {
+  width: 1200px; /* Set width */
+  height: 400px; /* Set height */
+  background-image: url('nice.jpg'); /* Replace with your image path */
+  background-size: cover; /* Set how the image is sized within the container */
+  background-position: center; /* Set the position of the image within the container */
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .profile {
+    text-align: center;
+  }
+  
+  .profile img {
+    width: 200px;
+    height: 250px;
+    border-radius: 100%;
+    margin-bottom: 0px;
+  }
+  
+  .profile h1 {
+    margin-bottom: 10px;
+  }
+  
+  .profile p {
+    color: #666;
+  }
+  
+  .bio {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bio h2 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  /*Another box*/
+
+
+
+
+
+
+
+  
+  .bio2 {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bio2 h2 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+.container2 {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
